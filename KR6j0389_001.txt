@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:26.437441
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:18
 #+TITLE: 馬鳴菩薩成就悉地念誦
 #+PROPERTY: CBETA_ID X02n0206
 #+PROPERTY: ID KR6j0389
